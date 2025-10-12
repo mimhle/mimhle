@@ -21,13 +21,14 @@ CS @ HCMUE (4th year) • Web Development • IoT/Hardware
 
 ## Skills and tools
 - Web: `HTML` `CSS` `JavaScript/TypeScript` `Python` `Node.js`
-- Frameworks: `React` `NextJs` `Svelte/SvelteKit` `Flask` `Django` `Ploty Dash`
+- Frameworks: `React` `NextJs` `Svelte/SvelteKit` `Tailwind CSS` `Flask` `Django` `Ploty Dash`
 - IoT & Embedded: `C/C++` `Python` (microcontrollers/SBCs, sensors, prototyping)
-- Infrastructure: `Git` `GitHub` `Heroku`
+- Infrastructure: `Git` `GitHub` `Heroku` `Vercel`
 - Protocols: `HTTP/REST` `MQTT` `WebSockets`
+- Databases: `Microsoft SQL` `MySQL` `SQLite` `MongoDB`
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=fff" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
@@ -37,6 +38,7 @@ CS @ HCMUE (4th year) • Web Development • IoT/Hardware
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff" />
   <img src="https://img.shields.io/badge/SvelteKit-000000?logo=svelte&logoColor=ff3e00" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=fff" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff" />
   
@@ -49,10 +51,16 @@ CS @ HCMUE (4th year) • Web Development • IoT/Hardware
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff" />
   
   <img src="https://img.shields.io/badge/HTTP/REST-1f2937?logo=apache&logoColor=fff" />
   <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=fff" />
   <img src="https://img.shields.io/badge/WebSockets-1e90ff?logoColor=fff" />
+
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
 </p>
 
 ## Featured projects
