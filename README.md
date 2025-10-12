@@ -84,6 +84,4 @@ CS @ HCMUE (4th year) • Web Development • IoT/Hardware
 - ✉️ Email: <lengocminh19092004@gmail.com>
 - 🗓️ Availability: Open to internships
 
-
 ---
-Last updated: 2025-10-11
