@@ -66,7 +66,7 @@ CS @ HCMUE (4th year) • Web Development • IoT/Hardware
 ## Featured projects
 - <a href="https://github.com/mimhle/swiss-manager-helper"><b>Swiss Manager Helper</b></a> — tools to speed up chess tournament tasks  
   Live: <a href="https://swiss-manager-helper-a5cb9d489801.herokuapp.com/"><b>Heroku</b></a>  
-  Tech: `Python` `Web` `Automation` `Heroku`
+  Tech: `Python` `Web` `Ploty Dash` `Heroku`
 - <a href="https://github.com/mimhle/esp32-co2-monitor"><b>Esp32 CO2 monitor</b></a> — simple sensor that log the co2 level  
   Tech: `IOT` `ESP32` `MQTT`
 
