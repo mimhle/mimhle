@@ -1,8 +1,8 @@
 # Hi there, I'm Lê Ngọc Minh 👋
 
-### 👨‍💻 Computer Science Student $\cdot$ Full-Stack $\cdot$ IoT
+### 👨‍💻 Information Technology Student $\cdot$ Full-Stack $\cdot$ IoT
 
-Based in **Ho Chi Minh City, Vietnam**, I am a Computer Science student at **HCM University of Education** (Expected 2026). I have a passion for building full-stack web applications and tinkering with IoT hardware.
+Based in **Ho Chi Minh City, Vietnam**, I am a Information Technology student at **HCM University of Education** (Expected 2026). I have a passion for building full-stack web applications and tinkering with IoT hardware.
 
 ---
 
