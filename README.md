@@ -1,87 +1,83 @@
+# Hi there, I'm Lê Ngọc Minh 👋
+
+### 👨‍💻 Computer Science Student $\cdot$ Full-Stack $\cdot$ IoT
+
+Based in **Ho Chi Minh City, Vietnam**, I am a Computer Science student at **HCM University of Education** (Expected 2026). I have a passion for building full-stack web applications and tinkering with IoT hardware.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+### IoT & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🔭 Featured Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **Swiss Manager Helper** | `Python` `Flask` `Pandas` | **Open Source tool** to automate manual data entry for chess tournaments. Built a pipeline to clean player lists and generate administrative documents. <br>🔗 [View Repository](https://github.com/mimhle/swiss-manager-helper) |
+| **E-commerce Web App** | `React` `Node.js` `MongoDB` | Full-stack store with dynamic shopping cart and integrated payment gateways (PayPal/VNPAY). Includes admin interface for inventory. <br>🔗 [View Repository](https://github.com/mimhle/TMDT_Final) |
+| **Classroom Monitor** | `C++` `IoT` `MQTT` | **(In Progress)** ESP32-based sensor nodes to aggregate real-time environment data (CO2, Temp, Light) and predict anomalies via Edge AI on Raspberry Pi. |
+| **Batch File Manager** | `Python` `Tkinter` | GUI automation tool to handle bulk file operations (searching, renaming, extension conversion). <br>🔗 [View Repository](https://github.com/mimhle/mimhle_file_tools) |
+
+---
+
+## 💼 Experience & Activities
+
+**IT Technician @ T-Chess**
+* Managed technical operations for tournaments with **300+ participants**, ensuring 100% data integrity.
+* Developed internal tools to automate workflow bottlenecks.
+
+**Core Member & Tech Lead @ HCMUE Chess Club**
+* Organizing university-level chess tournaments for nearly 100 students.
+* Oversee pairing management using Swiss Manager.
+
+---
+
+## ⚡ GitHub Stats
+
 <div align="center">
-
-# 👋 Hi, I'm Lê Ngọc Minh
-
-CS @ HCMUE (4th year) • Web Development • IoT/Hardware
-
-<a href="mailto:lengocminh19092004@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?logo=gmail&logoColor=white" alt="Email"></a>
-<img src="https://img.shields.io/badge/Open%20to%20Internships-22c55e" alt="Open to Internships">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mimhle&show_icons=true&theme=radical&count_private=true" alt="mimhle's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimhle&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-## About me
-- 🎓 4th-year Computer Science student at Ho Chi Minh University of Education
-- ♟️ Board member of the university chess club; building tools to streamline tournaments and operations
-- 🔭 Current project: Swiss Manager Helper — a web tool to simplify chess tournament workflows  
-  Repo: [mimhle/swiss-manager-helper](https://github.com/mimhle/swiss-manager-helper) • Live: [Heroku app](https://swiss-manager-helper-a5cb9d489801.herokuapp.com/)
-- 💡 Interests: full‑stack web apps, IoT systems, and embedded hardware
-- 🤝 Open to internships and collaboration
+## 📫 Connect with me
 
-## Skills and tools
-- Web: `HTML` `CSS` `JavaScript/TypeScript` `Python` `Node.js`
-- Frameworks: `React` `NextJs` `Svelte/SvelteKit` `Tailwind CSS` `Flask` `Django` `Ploty Dash`
-- IoT & Embedded: `C/C++` `Python` (microcontrollers/SBCs, sensors, prototyping)
-- Infrastructure: `Git` `GitHub` `Heroku` `Vercel`
-- Protocols: `HTTP/REST` `MQTT` `WebSockets`
-- Databases: `Microsoft SQL` `MySQL` `SQLite` `MongoDB`
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SvelteKit-000000?logo=svelte&logoColor=ff3e00" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff" />
-  
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff" />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff" />
-  
-  <img src="https://img.shields.io/badge/HTTP/REST-1f2937?logo=apache&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=fff" />
-  <img src="https://img.shields.io/badge/WebSockets-1e90ff?logoColor=fff" />
-
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
-</p>
-
-## Featured projects
-- <a href="https://github.com/mimhle/swiss-manager-helper"><b>Swiss Manager Helper</b></a> — tools to speed up chess tournament tasks  
-  Live: <a href="https://swiss-manager-helper-a5cb9d489801.herokuapp.com/"><b>Heroku</b></a>  
-  Tech: `Python` `Web` `Ploty Dash` `Heroku`
-- <a href="https://github.com/mimhle/esp32-co2-monitor"><b>Esp32 CO2 monitor</b></a> — simple sensor that log the co2 level  
-  Tech: `IOT` `ESP32` `MQTT`
-
-## What I’m learning
-- Strengthening: backend architecture for web apps, hardware‑software integration
-- Exploring: cloud pipelines for IoT, deployment best practices
-
-## Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mimhle&show_icons=true&theme=transparent" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimhle&layout=compact&theme=transparent" height="165" alt="Top languages" />
-</p>
-
-## Get in touch
-- ✉️ Email: <lengocminh19092004@gmail.com>
-- 🗓️ Availability: Open to internships
-
----
+* 📍 **Location:** Ho Chi Minh City
+* 📧 **Email:** [lengocminh19092004@gmail.com](mailto:lengocminh19092004@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/mimhle](https://www.linkedin.com/in/mimhle/)
+* ♟️ **Interests:** Home Lab/Self-hosting, Competitive Chess, Electronics Repair.
